@@ -1,45 +1,45 @@
-# LavaCactus Repository Template
+# website
 
-Open source template for lavacactus projects on GitHub
+**PaxlavaGames** official website ([paxlava.games](https://paxlava.games))
 
 <hr>
 
 #### Support
 [![Documentation](https://img.shields.io/badge/docs-0094FF.svg)][documentation_path]
-[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/libresource/lavacactus-repository-template/discussions/)
-[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/libresource/lavacactus-repository-template/issues/)
+[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/PaxlavaGames/website/discussions/)
+[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/PaxlavaGames/website/issues/)
 
 #### Languages
-[![Languages](https://img.shields.io/github/languages/count/libresource/lavacactus-repository-template)](https://github.com/libresource/lavacactus-repository-template)
-[![Top Language](https://img.shields.io/github/languages/top/libresource/lavacactus-repository-template)](https://github.com/libresource/lavacactus-repository-template)
+[![Languages](https://img.shields.io/github/languages/count/PaxlavaGames/website)](https://github.com/PaxlavaGames/website)
+[![Top Language](https://img.shields.io/github/languages/top/PaxlavaGames/website)](https://github.com/PaxlavaGames/website)
 
 #### Development
-[![Last Commit](https://img.shields.io/github/last-commit/libresource/lavacactus-repository-template/main
-)](https://github.com/libresource/lavacactus-repository-template)
-- [![Issues](https://img.shields.io/github/issues/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/issues/)
-[![Closed Issues](https://img.shields.io/github/issues-closed/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/issues/)
-- [![Pull Requests](https://img.shields.io/github/issues-pr/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/pulls)
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/pulls)
-- [![Discussions](https://img.shields.io/github/discussions/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/discussions/)
+[![Last Commit](https://img.shields.io/github/last-commit/PaxlavaGames/website/main
+)](https://github.com/PaxlavaGames/website)
+- [![Issues](https://img.shields.io/github/issues/PaxlavaGames/website
+)](https://github.com/PaxlavaGames/website/issues/)
+[![Closed Issues](https://img.shields.io/github/issues-closed/PaxlavaGames/website
+)](https://github.com/PaxlavaGames/website/issues/)
+- [![Pull Requests](https://img.shields.io/github/issues-pr/PaxlavaGames/website
+)](https://github.com/PaxlavaGames/website/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/PaxlavaGames/website
+)](https://github.com/PaxlavaGames/website/pulls)
+- [![Discussions](https://img.shields.io/github/discussions/PaxlavaGames/website
+)](https://github.com/PaxlavaGames/website/discussions/)
 
 [//]: # (#### Repository Stats)
 
-[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/libresource/lavacactus-repository-template)
+[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/PaxlavaGames/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-template&#41;)
+[//]: # (&#41;]&#40;https://github.com/PaxlavaGames/website&#41;)
 
-[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/libresource/lavacactus-repository-template)
+[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/PaxlavaGames/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-templategraphs/contributors&#41;)
+[//]: # (&#41;]&#40;https://github.com/PaxlavaGames/websitegraphs/contributors&#41;)
 
-[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/libresource/lavacactus-repository-template)
+[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/PaxlavaGames/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-template&#41;)
+[//]: # (&#41;]&#40;https://github.com/PaxlavaGames/website&#41;)
 
 <hr>
 
@@ -54,7 +54,7 @@ Open source template for lavacactus projects on GitHub
 
 ## Mission
 
-To provide quickstart with lavacactus projects on GitHub
+To Provide information about **PaxlavaGames** organization
 
 ## Open Source Project
 
@@ -63,45 +63,27 @@ Be free to use, fork, clone and contribute.
 
 ## Features
 
-- Lavacactus projects structure and requirements
-- Makefile
-- This template base on [libresource/open-source-checklist](https://github.com/libresource/open-source-checklist). 
-It contains may useful files for open source project: ([CHECKLIST.md](CHECKLIST.md), [CONTRIBUTING.md](CONTRIBUTING.md), 
-[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and much more).
-
-## Install
-
-Just use this repository as GitHub repository template
-
-## Quickstart
-
-- Check [REAMDE.md](README.md) in the profile folder. It's your project readme
-- Delete or change [this](README.md) README.md
-- Check all useful files in the project
-- Use [CHECKLIST.md](CHECKLIST.md) to check all of you need for good open source project
-- Enjoy
-
-## Examples
-
-GitHub's repositories which use this template
-- [DanteOnline website](https://github.com/danteonline/website)
+- Organization Info
+- Organization Projects
+- Online (Web) Games
+- Useful Links
 
 ## Contributing
 
 You are welcome! To easy start please check:
 - [Contributing](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Security Policy](SECURITY.md)
-- [Governance](GOVERNANCE.md)
-- [Support](SUPPORT.md)
+- [Code of Conduct](https://github.com/PaxlavaGames/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/PaxlavaGames/.github/blob/main/SECURITY.md)
+- [Governance](https://github.com/PaxlavaGames/.github/blob/main/GOVERNANCE.md)
+- [Support](https://github.com/PaxlavaGames/.github/blob/main/SUPPORT.md)
 
-[documentation_path]: https://github.com/libresource/lavacactus-repository-template
+[documentation_path]: https://github.com/PaxlavaGames/website
 
 ## Developer Documentation
 
 This site make with [LavaCactus](https://github.com/quillcraftsman/lavacactus)
 
-    git clone https://github.com/libresource/lavacactus-repository-template.git
+    git clone https://github.com/PaxlavaGames/website.git
     pip install -r requirements.txt
 
 Then use `cactus serve` to run development server.

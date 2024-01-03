@@ -36,5 +36,5 @@ and patterns in the existing code-base.
 
 You can check [Developer Documentation](DEVELOPER_DOCUMENTATION.md) to easy start with code
 
-[issues-path]: https://github.com/libresource/lavacactus-repository-template/issues
-[discussions-path]: https://github.com/libresource/lavacactus-repository-template/discussions
+[issues-path]: https://github.com/PaxlavaGames/website/issues
+[discussions-path]: https://github.com/PaxlavaGames/website/discussions
