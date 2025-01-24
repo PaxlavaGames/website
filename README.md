@@ -1,6 +1,6 @@
 # website
 
-**PaxlavaGames** official website ([paxlava.games](https://paxlava.games))
+**PaxlavaGames** official website ([paxlava.games](https://paxlavagames.github.io/website))
 
 <hr>
 
